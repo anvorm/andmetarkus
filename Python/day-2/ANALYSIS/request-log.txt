@@ -1,0 +1,8 @@
+1. esimene rida
+2. teine rida
+3. rida
+Hello WorldRidade arv: 4
+
+Ridade arv: 5
+
+Ridade arv: 7
